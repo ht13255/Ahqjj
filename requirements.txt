@@ -12,5 +12,3 @@ PyQt5
 resampy
 matplotlib
 audioread
-# REMOVE the problematic line below:
-# git+https://github.com/CorentinJ/Real-Time-Voice-Cloning.git

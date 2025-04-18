@@ -1,15 +1,16 @@
 streamlit
-torch
+torch>=2.0.0
 numpy
 scipy
 pydub
-tensorflow
+tensorflow>=2.11
 spleeter
 librosa
-matplotlib
 soundfile
-audioread
 webrtcvad
 PyQt5
 resampy
-git+https://github.com/CorentinJ/Real-Time-Voice-Cloning.git
+matplotlib
+audioread
+# REMOVE the problematic line below:
+# git+https://github.com/CorentinJ/Real-Time-Voice-Cloning.git
